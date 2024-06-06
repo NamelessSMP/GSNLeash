@@ -1,0 +1,8 @@
+name: NamelessGSNLeash
+version: '1.0-SNAPSHOT'
+main: org.ripex.namelessgsnleash.NamelessGSNLeash
+api-version: '1.20'
+permissions:
+  gsnleash.use:
+    description: Allows the player to leash other players.
+    default: false
